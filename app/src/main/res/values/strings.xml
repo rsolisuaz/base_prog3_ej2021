@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Cliente Control Escolar</string>
+    <string name="hint_estudiante">Estudiantes</string>
+    <string name="hint_materia">Materias</string>
+    <string name="hint_detalle_estudiante">Detalle Estudiante</string>
+    <string name="hint_detalle_materia">Detalle Materia</string>
+    <string name="etiqueta_autor">Desarrollado por %s</string>
+    <string name="nombre_autor">NNNNNNNNN</string>
+    <string name="permiso_internet_disponible">Permiso de acceder a Internet otorgado, puedes acceder al sistema.</string>
+    <string name="permiso_internet_requerido">Esta aplicación accede a la información a través de servicios REST por lo cual es necesario tener permiso de usar Internet, de otra manera no es posible obtener la informacion del sistema.</string>
+    <string name="permiso_internet_otorgado">El usuario otorgó permiso de usar Internet. Selecciona que lista deseas ver.</string>
+    <string name="permiso_internet_denegado">El usuario negó el permiso de usar Internet. No podrás ver ninguna lista.</string>
+
+    <string name="mensaje_error_url_invalido">El URL proporcionado es inválido</string><string name="mensaje_error_url_incorrecto">El URL solicitado no fue encontrado o causó error en el servidor</string>
+    <string name="mensaje_error_io">Error de conexión al contactar al servicio</string>
+    <string name="mensaje_error_json">Los datos recibidos del servicio no tienen el formato correcto</string>
+    <string name="mensaje_error_no_hay_registros">No hay registros para el servicio seleccionado.</string>
+    <string name="mensaje_error_campos">Uno o varios campos no tienen valores válidos.</string>
+    <string name="mensaje_exito_operacion">¡Operación solicitada aplicada exitosamente!</string>
+    <string name="mensaje_error_operacion">¡Operación solicitada no se pudo realizar!</string>
+    <string name="mensaje_error_no_hay_carreras">No hay carreras registradas. Primero hay que registrar carreras.</string>
+
+    <string name="etiqueta_ok">OK</string>
+    <string name="internet_no_disponible"><b>El acceso a internet no está disponible</b>.\n Esto significa que el usuario no ha otorgado el permiso para usarlo.</string>
+    <string name="url_base">http://192.168.1.101:8080/RESTControlEscolar-361772/servicios/</string>
+    <string name="titulo_confirmacion_eliminar">Confirmación de Eliminación</string>
+    <string name="mensaje_confirmacion_eliminar">¿Estás seguro de querer eliminar el elemento seleccionado?</string>
+    <string name="titulo_opcion_si">Sí</string>
+
+    <string name="titulo_confirmacion_guardar">Confirmación de Actualización</string>
+    <string name="mensaje_confirmacion_guardar">¿Estás seguro de querer guardar los datos capturados?</string>
+
+
+    <string name="titulo_opcion_no">No</string>
+    <string name="texto_cerrar">Cerrar</string>
+    <string name="hint_clave_materia">Clave de la materia</string>
+    <string name="hint_nombre_materia">Nombre de la Materia</string>
+    <string name="hint_semestre_materia">Semestre</string>
+    <string name="hint_carrera_materia">Carrera</string>
+</resources>
